@@ -1,7 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Sai Prakash Kommaraju!
+🎓 Graduate Student
+📍 University of Missouri-Kansas City | Master's in Computer Science | GPA: 4.0
 
-I am Sai Prakash Kommaraju, a graduate student in computer science at the University of Missouri-Kansas City, where I maintain a 4.0 GPA. With expertise in programming languages like Java, Python, and C++, and frameworks such as Spring Boot and Angular, I bring a versatile skill set to software development.
+🌟 Technical Skills
 
-I gained valuable industry experience at Fidelity Information Services, where I worked on building client-centric websites and enhancing advanced investment accounting systems. Additionally, during my time as a Programmer Analyst Trainee at Cognizant Technology Solutions, I developed and customized Salesforce Lightning applications for recruitment services.
+Languages & Frameworks: C/C++, Java, Python, MySQL, Spring Boot, HTML, CSS, JavaScript, Angular
+Tools: GitHub Actions, Git/GitHub, Linux, Windows, macOS
+Technologies: Machine Learning, Deep Learning, SSIS, Informatica PowerCenter
+💼 Work Experience
 
-Throughout my academic journey, I have worked on projects involving machine learning, object detection, web app development, and real-time data streaming, which have helped me hone my technical abilities. I am passionate about continuous learning, and I hold certifications in web development and Python. I have also actively contributed to technical and cultural initiatives, which have enriched my overall experience.
+Information Technology Trainee, Fidelity Information Services, Bengaluru
+Built client websites using Spring Boot (Back-end) and Angular (Front-end).
+Worked on Global Plus, a real-time, integrated portfolio accounting and custody system.
+Programmer Analyst Trainee Intern, Cognizant Technology Solutions, Hyderabad
+Developed and customized desktop applications on Salesforce Lightning platform.
+Worked on the Recruiting Tech project for hiring-related services.
+📚 Academic Projects
+
+Medical Insurance Prediction: Machine learning algorithms to predict healthcare insurance costs.
+Object Detection Software: Trained models to detect objects, their locations, and bounding boxes using TensorFlow.
+To-Do Web App: Web app with interactive features for task management using HTML, CSS, JavaScript, and Bootstrap.
+Intent Driven Public Subscribe Model: Real-time data segregation using Python, Spark, HDFS, and Kafka.
+✨ Certifications & Activities
+
+The Complete 2021 Web Development Bootcamp (Udemy).
+Python Summer Training (EBOX).
+Member of Technical Team at Mission Towards Vision Organization.
+Volunteer for One World cultural event at Lovely Professional University.
+📫 Contact Me
+
+📧 saiprakash.kommaraju@gmail.com
+📧 sktb7@umkc.edu
+🌐 LinkedIn
