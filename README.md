@@ -7,6 +7,7 @@
 Languages & Frameworks: C/C++, Java, Python, MySQL, Spring Boot, HTML, CSS, JavaScript, Angular
 Tools: GitHub Actions, Git/GitHub, Linux, Windows, macOS
 Technologies: Machine Learning, Deep Learning, SSIS, Informatica PowerCenter
+
 💼 Work Experience
 
 Information Technology Trainee, Fidelity Information Services, Bengaluru
@@ -15,12 +16,14 @@ Worked on Global Plus, a real-time, integrated portfolio accounting and custody 
 Programmer Analyst Trainee Intern, Cognizant Technology Solutions, Hyderabad
 Developed and customized desktop applications on Salesforce Lightning platform.
 Worked on the Recruiting Tech project for hiring-related services.
+
 📚 Academic Projects
 
 Medical Insurance Prediction: Machine learning algorithms to predict healthcare insurance costs.
 Object Detection Software: Trained models to detect objects, their locations, and bounding boxes using TensorFlow.
 To-Do Web App: Web app with interactive features for task management using HTML, CSS, JavaScript, and Bootstrap.
 Intent Driven Public Subscribe Model: Real-time data segregation using Python, Spark, HDFS, and Kafka.
+
 ✨ Certifications & Activities
 
 The Complete 2021 Web Development Bootcamp (Udemy).
