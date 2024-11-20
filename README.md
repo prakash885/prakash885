@@ -104,8 +104,4 @@ Extracurriculars:
 
 📧 sktb7@umkc.edu
 
-🌐 LinkedIn Profile👋 Hi, I'm Sai Prakash Kommaraju!
-
-🎓 Graduate Student
-
-📍 University of Missouri-Kansas City | Master's in Computer Science | GPA: 4.0 with this content I am not getting pointers give me the same content with pointers
+🌐 LinkedIn Profile
