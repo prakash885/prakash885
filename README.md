@@ -104,4 +104,4 @@ Extracurriculars:
 
 📧 sktb7@umkc.edu
 
-🌐 LinkedIn Profile
+🌐 in/saiprakash-kommaraju
