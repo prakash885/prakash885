@@ -30,6 +30,7 @@ The Complete 2021 Web Development Bootcamp (Udemy).
 Python Summer Training (EBOX).
 Member of Technical Team at Mission Towards Vision Organization.
 Volunteer for One World cultural event at Lovely Professional University.
+
 📫 Contact Me
 
 📧 saiprakash.kommaraju@gmail.com
