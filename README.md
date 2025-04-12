@@ -48,13 +48,13 @@
 <!-- Professional Experience Section -->
 <hr>
 <h2>💼 Professional Experience</h2>
-<h3>🏢 Fidelity Information Services — <i>Information Technology Trainee</i> (June 2022 – July 2023)</h3>
+<h3>🏢 Fidelity Information Services — <i>Information Technology Trainee</i> (Jan 2022 – July 2023)</h3>
 <ul>
     <li>🔹 Built <strong>client-facing websites</strong> using <strong>Spring Boot</strong> (Backend) and <strong>Angular</strong> (Frontend).</li>
     <li>🔹 Contributed to <em>Global Plus</em>, a <strong>real-time portfolio accounting and custody system</strong>.</li>
 </ul>
 
-<h3>🏢 Cognizant Technology Solutions — <i>Programmer Analyst Trainee Intern</i> (Jan 2022 – Jun 2022)</h3>
+<h3>🏢 Cognizant Technology Solutions — <i>Programmer Analyst Trainee Intern</i> (Nov 2020 – Dec 2021)</h3>
 <ul>
     <li>🔹 Developed <strong>custom desktop applications</strong> using the <strong>Salesforce Lightning platform</strong>.</li>
     <li>🔹 Worked on <em>Recruiting Tech</em>, a <strong>web application for hiring services</strong>.</li>
